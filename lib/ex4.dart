@@ -82,7 +82,6 @@ void main() {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Icon(Icons.email_outlined, color: Color(0xFF1E1B3A)),
                       SizedBox(width: 8),
                       Text(
                         "Continue with email",
